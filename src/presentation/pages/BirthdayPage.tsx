@@ -1,4 +1,4 @@
-import { CalendarHeart, Gift, MapPin, Sparkles, Stars } from 'lucide-react';
+import { CalendarHeart, Gift, Sparkles, Stars } from 'lucide-react';
 import type { CSSProperties } from 'react';
 import type { BirthdayProfile } from '../../domain/birthdayProfile';
 import './BirthdayPage.css';
